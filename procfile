@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run predict_iris_species.py
+web: sh setup.sh && streamlit run penguinApp.py
